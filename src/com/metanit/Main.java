@@ -12,7 +12,7 @@ public class Main {
 
     public static void main(String[] args) {
         //Иван - объект класса Сотрудник
-	/*Employee Ivan = new Employee ("Boichenko Ivan", "intern", "79168848411@yandex.ru", "89168848411", 50000, 21);
+	/*Employee Ivan = new Employee ("Boichenko Ivan", "intern", "79168848412@yandex.ru", "89168848412", 50000, 21);
 	Ivan.Info();
 	System.out.println(Ivan.GetAge());*/
 	Employee arr[] = new Employee[5];
